@@ -1,7 +1,7 @@
 ## ⚠️ Where are all the prompts gone?
 
 > **No worries! They're still here.** The README became too large to maintain, so prompts now live in [PROMPTS.md](PROMPTS.md). Your contributions to [prompts.chat](https://prompts.chat) automatically sync there. Still free, still open source.
->
+> 
 > 🌐 **[View All Prompts on prompts.chat](https://prompts.chat/prompts)**
 > 
 > 📖 **[View All Prompts on GitHub (PROMPTS.md)](PROMPTS.md)**
@@ -9,7 +9,6 @@
 > 🔍 **[View All Prompts synced on GitHub (prompts.csv)](https://github.com/f/awesome-chatgpt-prompts/blob/main/prompts.csv)**
 > 
 > 📊 **[View All Prompts synced on Data Studio on HF (prompts.csv)](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts/viewer?views%5B%5D=train)**
-> 
 
 <p align="center">
   <img width="558" height="148" alt="Screenshot 2025-12-12 at 02 40 52" src="https://github.com/user-attachments/assets/8de2ba4c-5e89-4aae-aecb-32b188fb1bfb" />
@@ -66,10 +65,11 @@
   </a><br><br>
   <sub>prompts.chat is built with Windsurf and Devin by Cognition</sub>
 <hr>
-  <sub><a href="https://github.com/sponsors/f/sponsorships?sponsor=f&amp;tier_id=529895">Be my sponsor and your logo will be here!</a></sub>
+  <sub><a href="https://github.com/sponsors/f/sponsorships?sponsor=f&tier_id=529895">Be my sponsor and your logo will be here!</a></sub>
 </div>
 
 ---
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/f/awesome-chatgpt-prompts)
 
@@ -102,6 +102,7 @@ npm run setup
 ```
 
 The setup wizard will guide you through:
+
 - **Branding** — Set your organization name, logo, and description
 - **Theme** — Choose colors, border radius, and UI style
 - **Authentication** — Configure GitHub, Google, Apple, Azure AD, or email/password login
